@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981279889844",
+    "project_id": "mesenger-c19ab",
+    "storage_bucket": "mesenger-c19ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981279889844:android:44713c4100b914a080bae1",
+        "android_client_info": {
+          "package_name": "com.example.messenger_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981279889844-6v2lktb3j7a9t8ghcrs261lv3gmc6ud4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger_clone",
+            "certificate_hash": "2832f8cfa9c13d389141a03ad9234be6f43da27e"
+          }
+        },
+        {
+          "client_id": "981279889844-ovrhehruhh0cuavg81kksfch563hhbnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPU3whpCMvMJSYE6RUMEMQDOobS2eJfAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981279889844-ovrhehruhh0cuavg81kksfch563hhbnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
